@@ -13,5 +13,5 @@ Addons Installed:
 1. Go to your %\World of Warcraft\Interface and clone the project.
 2. Execute: git branch -a
 3. Find the correct branch for correct Expansion
-4. Execute: git checkout <<branch_name>>
+4. Execute: git checkout <<branch_name>> without "remote/"
 5. You are ready to go!
