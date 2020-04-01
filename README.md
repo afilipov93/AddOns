@@ -10,4 +10,8 @@ Addons Installed:
 7. AtlasLoot - Shows items from dungeons/raids/reps
 
 # How to Install: 
-Go to your %\World of Warcraft\Interface and clone the project.
+1. Go to your %\World of Warcraft\Interface and clone the project.
+2. Execute: git branch -a
+3. Find the correct branch for correct Expansion
+4. Execute: git checkout <<branch_name>>
+5. You are ready to go!
