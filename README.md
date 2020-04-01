@@ -8,6 +8,7 @@ Addons Installed:
 5. GearScoreLite - shows you Gear Score
 6. DeadlyBossMod - Raid addon for boss mechanisms
 7. AtlasLoot - Shows items from dungeons/raids/reps
+8. Gatherer - Shows all profession-related lootables -> chests/herbs/etc.
 
 # How to Install: 
 1. Go to your %\World of Warcraft\Interface and clone the project.
