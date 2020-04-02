@@ -12,6 +12,8 @@ Addons Installed:
 9. Quest helper - Shows how and where to do quests.
 
 # How to Install: 
+##Note: On initial pull the AddOns/ folder will essentially be overwritten and changes to existting addons will be deleted. If you want to be safe on the safe side clone the project and copy over addons.
+
 1. Go to your %\World of Warcraft\Interface and clone the project.
 2. Execute: cd AddOns/
 3. Execute: git branch -a
